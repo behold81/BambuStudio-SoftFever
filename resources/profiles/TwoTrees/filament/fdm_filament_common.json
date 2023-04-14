@@ -3,6 +3,9 @@
     "name": "fdm_filament_common",
     "from": "system",
     "instantiation": "false",
+    "default_filament_colour": [
+      "FF8040"
+    ],
     "cool_plate_temp" : [
         "60"
     ],
